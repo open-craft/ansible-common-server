@@ -1,7 +1,3 @@
-Common Server
-=============
+This repository is obsolete.  The contents has been merged into the [ansible-playbooks][1] repo.
 
-A role that sets up a generic server with some base configuration, in in itself it. 
-
-By default it configures UFW to deny all incoming traffic except ssh, add own rules so 
-your services are visible :)
+[1]: https://github.com/open-craft/ansible-playbooks
